@@ -4,7 +4,7 @@
 ## Introduction
 WhatsChat is a chat application developed for practice purpose with Firebase Realtime Database in backend
 
-## Snapshot of the project
+## Snapshot of the App
 ![](ss1.PNG)
 ![](ss2.PNG)
 ![](ss3.PNG)
